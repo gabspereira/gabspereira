@@ -1,12 +1,26 @@
-[![👋 Hi there, I'm Gabriel Pereira](/techanalytics-itsme.png)](https://www.linkedin.com/in/gfpereira/)
+[<img src="https://github.com/gabspereira/gabspereira/blob/f62684b2a8ad0da14e39c59289159ff49bfc42c3/techanalytics-itsme.png" alt="👋 Hi there! I'm Gabriel Pereira | https://www.linkedin.com/in/gfpereira/)" title="👋 Hi there! I'm Gabriel Pereira | https://www.linkedin.com/in/gfpereira/)"/>](https://www.linkedin.com/in/gfpereira/)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabspereira)](https://github.com/gabspereira)
+<div align="center">
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gfpereira/)](https://www.linkedin.com/in/gfpereira/)
+
+</div>
+
+---
+
+### Skills  
+
+<p align="left"> 
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+</p>
+
 
 - 👋 Hi, I’m @gabspereira
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Cloud Architecture, IaC, CI/CD and DataOps
-- 💞️ I’m looking to collaborate on open source projects
+- 🤝 I’m looking to collaborate on open source projects
 - 📫 How to reach me: gabriel.pereira@protonmail.com
 
 <!---
