@@ -10,16 +10,17 @@
 
 ### Skills  
 
-<p align="left"> 
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<p align="left">
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/skills/postgresql-colored.svg"width="36" height="36" alt="SQL" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 </p>
 
 
 - 👋 Hi, I’m @gabspereira
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Cloud Architecture, IaC, CI/CD and DataOps
+- 👀 I’m interested in Data Engineer | Data Scientist | Machine Learning
+- 🌱 I’m currently learning ML System Design, AI Engineering, and building scalable data pipelines for real-world corporate environments
 - 🤝 I’m looking to collaborate on open source projects
 - 📫 How to reach me: gabriel.pereira@protonmail.com
 
