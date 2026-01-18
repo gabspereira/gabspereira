@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gfpereira/)](https://www.linkedin.com/in/gfpereira/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielpereira-dev)](https://www.linkedin.com/in/gabrielpereira-dev)
 
 </div>
 
