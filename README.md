@@ -1,4 +1,4 @@
-[<img src="https://github.com/gabspereira/gabspereira/blob/f62684b2a8ad0da14e39c59289159ff49bfc42c3/techanalytics-itsme.png" alt="👋 Hi there! I'm Gabriel Pereira | https://www.linkedin.com/in/gfpereira/)" title="👋 Hi there! I'm Gabriel Pereira | https://www.linkedin.com/in/gfpereira/)"/>](https://www.linkedin.com/in/gfpereira/)
+[<img src="https://media.licdn.com/dms/image/v2/D4D16AQEj_p5cYrcJVA/profile-displaybackgroundimage-shrink_350_1400/B4DZvII3uzG8Ag-/0/1768589329368?e=1770249600&v=beta&t=hcrYS8q79Sawy5DYG8j0lH0Vax0mpqSrksqx4XV8E38" alt="👋 Hi there! I'm Gabriel Pereira | https://www.linkedin.com/in/gabrielpereira-dev)" title="👋 Hi there! I'm Gabriel Pereira | https://www.linkedin.com/in/gabrielpereira-dev)"/>](https://www.linkedin.com/in/gabrielpereira-dev)
 
 <div align="center">
 
