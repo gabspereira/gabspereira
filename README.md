@@ -1,4 +1,4 @@
-[<img src="https://media.licdn.com/dms/image/v2/D4D16AQEj_p5cYrcJVA/profile-displaybackgroundimage-shrink_350_1400/B4DZvII3uzG8Ag-/0/1768589329368?e=1770249600&v=beta&t=hcrYS8q79Sawy5DYG8j0lH0Vax0mpqSrksqx4XV8E38" alt="👋 Hi there! I'm Gabriel Pereira | https://www.linkedin.com/in/gabrielpereira-dev)" title="👋 Hi there! I'm Gabriel Pereira | https://www.linkedin.com/in/gabrielpereira-dev)"/>](https://www.linkedin.com/in/gabrielpereira-dev)
+[Gabriel Pereira on LinkedIn](https://www.linkedin.com/in/gabrielpereira-dev)
 
 <div align="center">
 
